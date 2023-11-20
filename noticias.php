@@ -1,6 +1,6 @@
 <div style="background-color: MediumSeaGreen	; background-image: url(''); background-size: cover; background-position: center; background-repeat: no-repeat;"> 
 
-<p style="color:black;"><h2>Ultimas Noticias da Semana:<h2>-repeat: no-repeat; 
+<p style="color:black;"><h2>Ultimas Noticias da Semana:<h2>
 </p>
 
 <p>
